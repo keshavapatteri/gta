@@ -1,0 +1,17 @@
+.Home{
+   color: white;
+   background-color: brown;
+   width: 500px;
+   height: 50%
+};
+/* Home.css */
+
+.carousel-item img {
+   height: 500px; /* Adjust the height as needed */
+   object-fit: cover; /* Ensures the image covers the container while maintaining aspect ratio */
+   width: 1000px;
+ }
+ .custom-image-size {
+   width: 100px; /* Set your desired width */
+   height: 500px; /* Maintain the aspect ratio */
+ }

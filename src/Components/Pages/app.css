@@ -1,0 +1,17 @@
+/* Custom styles can go here */
+
+/* Ensure footer sticks to the bottom */
+html, body {
+    height: 100%;
+  }
+  
+  #root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+  }
+  
+  .container {
+    flex: 1;
+  }
+  
